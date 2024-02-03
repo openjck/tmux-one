@@ -1,4 +1,4 @@
-# /usr/bin/env bash
+#!/usr/bin/env bash
 
 # Windows
 tmux set-option -g base-index 1
